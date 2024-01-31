@@ -25,7 +25,7 @@ The project aims to be a resource for space enthusiasts. Let's embark on a journ
 
 ## Project Structure
 
-![Ekran Resmi 2024-01-31 16 54 41](https://github.com/Bajbeyt/SpaceNewsApi/assets/131589682/819b674f-6102-4bcd-98f2-9475c21b81b5)
+![Ekran Resmi 2024-01-31 16 54 41](https://github.com/Bajbeyt/SpaceNewsApi/assets/131589682/b65c138b-a549-4966-af1a-c7e6cb13e2e7)
 
 ## NuGet Packages
 
