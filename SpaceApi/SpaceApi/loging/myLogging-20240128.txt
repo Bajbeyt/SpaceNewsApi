@@ -1,0 +1,5 @@
+2024-01-28 11:56:26.603 +03:00 [INF] GetUserList İşlemi yapıldı
+2024-01-28 12:21:22.663 +03:00 [INF] Login işlemi BaşarılıEntities.ModelDTO.UserForAuthenticationDto
+2024-01-28 12:21:41.259 +03:00 [INF] GetUserAllList İşlemi yapıldı
+2024-01-28 12:21:52.523 +03:00 [INF] Login işlemi BaşarılıEntities.ModelDTO.UserForAuthenticationDto
+2024-01-28 12:23:47.842 +03:00 [INF] Register İşlemi Başarılı

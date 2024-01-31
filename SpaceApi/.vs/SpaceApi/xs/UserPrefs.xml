@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{744FAF30-14CB-459B-847C-C9E79D11F6DD}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/beytullah/RiderProjects/SpaceApi/Presentations/Controllers/NewsController.cs" relfile="Presentations/Controllers/NewsController.cs" line="37" column="1" />
+      <Breakpoint file="/Users/beytullah/RiderProjects/SpaceApi/Services/NewsService.cs" relfile="Services/NewsService.cs" line="36" column="1" />
+      <Breakpoint file="/Users/beytullah/RiderProjects/SpaceApi/Repository/EFCore/RepositoryBase.cs" relfile="Repository/EFCore/RepositoryBase.cs" line="27" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SpaceApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Presentations/Controllers/NewsController.cs">
+    <Files>
+      <File FileName="Presentations/Controllers/NewsController.cs" Line="41" Column="1" />
+      <File FileName="Services/NewsService.cs" Line="43" Column="1" />
+      <File FileName="Repository/EFCore/RepositoryBase.cs" Line="28" Column="1" />
+      <File FileName="Repository/EFCore/NewsRepository.cs" Line="15" Column="1" />
+      <File FileName="Repository/EFCore/RepositoryManager.cs" Line="23" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SpaceApi" expanded="True">
+            <Node name="Entities" expanded="True" />
+            <Node name="Presentations" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="NewsController.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Repository" expanded="True">
+              <Node name="EFCore" expanded="True" />
+            </Node>
+            <Node name="Services" expanded="True" />
+            <Node name="SpaceApi" expanded="True">
+              <Node name="ServiceExtensions" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

@@ -1,0 +1,17 @@
+/Users/beytullah/RiderProjects/SpaceApi/Repository/bin/Debug/net7.0/Repository.deps.json
+/Users/beytullah/RiderProjects/SpaceApi/Repository/bin/Debug/net7.0/Repository.runtimeconfig.json
+/Users/beytullah/RiderProjects/SpaceApi/Repository/bin/Debug/net7.0/Repository.dll
+/Users/beytullah/RiderProjects/SpaceApi/Repository/bin/Debug/net7.0/Repository.pdb
+/Users/beytullah/RiderProjects/SpaceApi/Repository/bin/Debug/net7.0/Entities.dll
+/Users/beytullah/RiderProjects/SpaceApi/Repository/bin/Debug/net7.0/Entities.pdb
+/Users/beytullah/RiderProjects/SpaceApi/Repository/obj/Debug/net7.0/Repository.csproj.AssemblyReference.cache
+/Users/beytullah/RiderProjects/SpaceApi/Repository/obj/Debug/net7.0/Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beytullah/RiderProjects/SpaceApi/Repository/obj/Debug/net7.0/Repository.AssemblyInfoInputs.cache
+/Users/beytullah/RiderProjects/SpaceApi/Repository/obj/Debug/net7.0/Repository.AssemblyInfo.cs
+/Users/beytullah/RiderProjects/SpaceApi/Repository/obj/Debug/net7.0/Repository.csproj.CoreCompileInputs.cache
+/Users/beytullah/RiderProjects/SpaceApi/Repository/obj/Debug/net7.0/Repository.csproj.CopyComplete
+/Users/beytullah/RiderProjects/SpaceApi/Repository/obj/Debug/net7.0/Repository.dll
+/Users/beytullah/RiderProjects/SpaceApi/Repository/obj/Debug/net7.0/refint/Repository.dll
+/Users/beytullah/RiderProjects/SpaceApi/Repository/obj/Debug/net7.0/Repository.pdb
+/Users/beytullah/RiderProjects/SpaceApi/Repository/obj/Debug/net7.0/Repository.genruntimeconfig.cache
+/Users/beytullah/RiderProjects/SpaceApi/Repository/obj/Debug/net7.0/ref/Repository.dll
