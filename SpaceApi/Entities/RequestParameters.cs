@@ -2,7 +2,7 @@ namespace Entities;
 
 public class RequestParameters
 {
-    const int maxPageSize = 2;
+    const int maxPageSize = 4;
 
     public int PageNumber { get; set; }
 

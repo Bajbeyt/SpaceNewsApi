@@ -9,6 +9,7 @@ public interface IRocketService
 {
     // Task<IEnumerable<ExpandoObject>> GetAllRocketsList(RequestParameters parameters, bool trackChanges);
     // Task<IEnumerable<Rocket>> GetAllRocketPagination(RequestParameters parameters, bool trackChanges);
+    IEnumerable<ExpandoObject> GetPagedAndShapedRocket(RequestParameters parameters, bool trackChanges);
     Task<IEnumerable<Rocket>> GetAllRocket(bool trackChanges);
     Task<Rocket> GetRockets(int id, bool trackChanges);
     Task<Rocket> CreateRocket(RocketDto rocketDto);

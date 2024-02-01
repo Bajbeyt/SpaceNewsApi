@@ -87,4 +87,22 @@ public class RocketService:IRocketService
             _repository.Save();
         }
     }
+    public IEnumerable<ExpandoObject> GetPagedAndShapedRocket(RequestParameters parameters, bool trackChanges)
+    {
+        var rocets = _repository.Rocket.GetPagedRocket(parameters, trackChanges);
+
+        // Rocket'i rockets'e dönüştür
+        var rocket = rocets.Select(r => new RocketDto
+        {
+            Id = r.Id,
+            Name = r.Name,
+            Details = r.Details,
+            LaunchDate = r.LaunchDate,
+            Type = r.Type
+        });
+
+        // Dönüştürülmüş rocket koleksiyonunu ExpandoObject olarak şekillendir
+        var shapeData = _dataShaper.ShapeDataList(rocket, parameters.Fields);
+        return shapeData;
+    }
 }

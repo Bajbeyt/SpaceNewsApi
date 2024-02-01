@@ -38,6 +38,14 @@ public class RocketController:ControllerBase
         return Ok(rocket);
     }
 
+    [HttpGet("get-all-pagination")]
+    public IActionResult GetPagination([FromQuery] RequestParameters parameters)
+    {
+        var rocket = _service.RocketService.GetPagedAndShapedRocket(parameters, false);
+        if (rocket != null) return Ok(rocket);
+        return NotFound();
+    }
+
     [HttpPut("update-Rocket")]
     public IActionResult UpdateRocket(RocketDto rocketDto)
     {
